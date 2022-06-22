@@ -10,6 +10,11 @@ function minus(a,b){
 function multiply(a,b){
     return a*b;
 }
+
+function raiz(a){
+   var n=0;
+   return Math.sqrt(a);
+}
 function divide(a,b){
     
    if(b===0){
@@ -24,5 +29,6 @@ module.exports= {
     add,
     minus,
     multiply,
-    divide
+    divide,
+    raiz
 }
