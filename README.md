@@ -1,6 +1,6 @@
 # lab22022
 
-
+[![Build Status](https://app.travis-ci.com/diegobotia/lab22022.svg?branch=main)](https://app.travis-ci.com/diegobotia/lab22022)
 
 Implementation of a Simple Calculator with the next operations:
 * Add
