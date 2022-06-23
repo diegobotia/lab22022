@@ -14,6 +14,7 @@
 
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=LAB22022&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=LAB22022)
 
+[![Coverage Status](https://coveralls.io/repos/github/diegobotia/lab22022/badge.svg?branch=main)](https://coveralls.io/github/diegobotia/lab22022?branch=main)
 
 Implementation of a Simple Calculator with the next operations:
 * Add
