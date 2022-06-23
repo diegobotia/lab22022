@@ -23,6 +23,10 @@ describe("Calculator - Test", function(){
             expect(calculator.divide(3,3)).to.equal(3/3);
         });
 
+        it("Testing the root operation", function(){
+            expect(calculator.raiz(45)).to.equal(6.708203932499369);
+        });
+
         it("Testing the divide operation by zero", function(){
             const expectError= new Error("No puede dividir por cero");
             expect(calculator.divide(3,0).message).to.equal(expectError.message);

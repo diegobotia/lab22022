@@ -12,7 +12,6 @@ function multiply(a,b){
 }
 
 function raiz(a){
-   var n=0;
    return Math.sqrt(a);
 }
 function divide(a,b){
