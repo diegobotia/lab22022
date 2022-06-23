@@ -2,6 +2,19 @@
 
 [![Build Status](https://app.travis-ci.com/diegobotia/lab22022.svg?branch=main)](https://app.travis-ci.com/diegobotia/lab22022)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=LAB22022&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=LAB22022)
+
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=LAB22022&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=LAB22022)
+
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=LAB22022&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=LAB22022)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=LAB22022&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=LAB22022)      
+
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=LAB22022&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=LAB22022)
+
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=LAB22022&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=LAB22022)
+
+
 Implementation of a Simple Calculator with the next operations:
 * Add
 * Minus
